@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	jehiah "github.com/jehiah/go-strftime"
 	fastly "github.com/fastly/go-utils/strftime"
-	lestrrat "github.com/lestrrat/go-strftime"
+	jehiah "github.com/jehiah/go-strftime"
 	tebeka "github.com/tebeka/strftime"
+	lestrrat "github.com/wlibo666/go-strftime"
 )
 
 func init() {
